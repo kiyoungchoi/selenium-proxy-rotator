@@ -42,6 +42,4 @@ On main.py
 - [ ] Add config file for entering the interface name and browser size.
 - [ ] Server/continent proxy location support
 
-Thank you for checking out this repo! 
-
-If you found this helpful, feel free to star my work and tell me some of the creative applications you came up with. However, be minful of where and how you scrape. Make sure to stay within the confines of the law to not piss people off!
+Test for new one.
